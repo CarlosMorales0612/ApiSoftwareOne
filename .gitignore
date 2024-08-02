@@ -1,0 +1,16 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.log
+
+# Archivos generados
+bin/
+obj/
+
+# Configuración de paquetes
+packages/
+
+# Archivos de la solución de Visual Studio
+*.sln
+
